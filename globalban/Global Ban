@@ -1,0 +1,55 @@
+
+C:\Coding Github\Git>- [p]globalban <name> or <name+discrim> or <mention> or <ID> # Bans a user from all connected servers.
+The system cannot find the file specified.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>- [p]globalunban <ID> # Unbans a user from all connected servers.
+The system cannot find the file specified.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>- [p]globalbans # Gives all the people who are banned.
+'-' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>- [p]bansync # Syncs all global bans across all servers.
+'-' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>- [p]syncedservers # Shows all the synced servers.
+'-' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>- [p]sync # Adds a server to the synced list if it is not already there and re-syncs all the global bans.
+'-' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>- [p]delsync # Removes a server from the synced server list.
+'-' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>1. cd .../Red-DiscordBot/cogs/CogManager/cogs/ # Go to the directory that has Redbot installed.
+'1.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>2. git install https://github.com/dajkatal/globalban.git
+'2.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>3. Start Redbot
+'3.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>4. [p]load globalban
+'4.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Coding Github\Git>
+C:\Coding Github\Git>5. Done
